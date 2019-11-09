@@ -1,0 +1,13 @@
+#main{
+    margin: 0 auto;
+    list-style: none;
+}
+#comment{
+    margin-top: 140px;
+    font-size: 20px;
+    margin-left: 80px;
+}
+
+#input{
+    padding-bottom: 20px;
+}
